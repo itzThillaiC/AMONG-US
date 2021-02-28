@@ -5,7 +5,7 @@ body{
 	font-size: 15px;
 	line-height: 1.7;
 	color: #fff;
-	background-color: #12f8ad;
+	background:linear-gradient(to right,#0bf3e0,#26e1fa,#295ce7);
 	overflow-x: hidden;
 }
 a { cursor: pointer; transition: all 200ms linear; }
@@ -218,12 +218,12 @@ h6 span{
 .btn:active,
 .btn:focus{  
   background-color: #fff;
-  color: #12f8ad;
+  color: #26e1fa;
   box-shadow: 0 8px 24px 0 rgba(255,255,255,.2);
 }
 .btn:hover{  
   background-color: #fff;
-  color:#12f8ad;
+  color:#26e1fa;
   box-shadow: 0 8px 24px 0 rgba(255,255,255,.2);
 }
 .logo {
